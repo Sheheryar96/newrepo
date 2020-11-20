@@ -1,0 +1,9 @@
+diff a/files/index.html b/files/index.html	(rejected hunks)
+@@ -7,7 +7,6 @@
+     <body>
+         <h1>Main Page</h1>
+         <p>Hello World here i am </p>
+-        <p>Hello World here i am </p>
+         <p>i am new here </p>
+ <div></div>
+     </body>
